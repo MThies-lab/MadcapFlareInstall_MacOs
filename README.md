@@ -1,4 +1,4 @@
-# MadcapFlareInstall_MacOs
+# Setup a Virtual Machine On MacOs for Madcap Flare (or 32 bit video games from steam ;) )
 
 Repository for installing Madcap Flare on MacOs platforms & Introduction Course materials
 
